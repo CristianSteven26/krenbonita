@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#nav-bar{
+    background-color: #b71c1c ;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#historia1 { 
+    padding-top: 10%;
+    padding-bottom: 3%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+
+}
+
+
+#titulo, #boton1, #boton2 {
+    color: white;
+
+}
+#titulo{
+    font-size: 170%;
+}
+#carousel{
+    z-index: 888;
+    padding-bottom: 5%;
+}
+
+
+#titulohistoria{
+    font-size: 130%;
+    text-decoration: underline;
+}
+
+#titulohistoria2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+
+}
+#textohistoria2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#juntos, #viajecitos, #nosenviamos, #tablero{
+    padding: 5%;
+}
+
+.card-body {
+    background-color: #ffcdd2c9 ;
+  
+}
+.card{
+    margin-top: 25%;
+    padding: 5%;
+}
+
+.card-title {
+
+font-size: 150%;
+
+}
+
+.card-text {
+    font-size: 90%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#cartacampeones{
+    padding-top: 65%;
+}
+
+#cartacider{
+    padding-top: 65%;
+}
